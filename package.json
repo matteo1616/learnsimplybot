@@ -1,0 +1,18 @@
+{
+  "name": "bot-discord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "fetch-nodejs": "^0.2.1",
+    "fs": "0.0.1-security",
+    "google-translate-api": "^2.3.0",
+    "request": "^2.88.0"
+  }
+}
